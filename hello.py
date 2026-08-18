@@ -9,7 +9,3 @@ def main():
 if __name__ == "__main__":
     main()
     
-
-def print_hello_world():
-    print("Hello, World!")
-
